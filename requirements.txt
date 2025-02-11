@@ -1,0 +1,4 @@
+telegram
+telebot
+python-telegram-bot
+google-generativeai
